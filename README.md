@@ -1,4 +1,5 @@
 # PS-FCN
+Original authors:
 **[PS-FCN: A Flexible Learning Framework for Photometric Stereo, ECCV 2018](http://gychen.org/PS-FCN/)**,
 <br>
 [Guanying Chen](http://www.gychen.org), [Kai Han](http://www.hankai.org/), [Kwan-Yee K. Wong](http://i.cs.hku.hk/~kykwong/)
