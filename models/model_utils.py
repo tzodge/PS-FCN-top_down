@@ -2,6 +2,9 @@ import os
 import torch
 import torch.nn as nn
 
+def makedir(path):
+    os.makedirs(path)
+
 def getInput(args, data):
     input_list = [data['input']]
     if args.in_light: input_list.append(data['l'])
